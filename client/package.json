@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "\"Client app for desktop share\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.4",
+    "screenshot-desktop": "^1.12.7",
+    "socket.io-client": "^4.4.0",
+    "uuid": "^8.3.2"
+  }
+}
